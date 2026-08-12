@@ -61,17 +61,3 @@ Framed as a binary classification / early-warning task: given a patient's clinic
 
 ```
 
-## Future Work
-
-- Validate on an external dataset to test generalization across hospitals.
-- Explore explainability tools (e.g., SHAP) to make predictions clinically interpretable.
-- Deploy as a simple web app/API for demo purposes.
-
-## References
-
-- Singer, M. et al. (2016). The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3).
-- PhysioNet/CinC Challenge 2019: Early Prediction of Sepsis from Clinical Data.
-
-## Author
-
-Doun
